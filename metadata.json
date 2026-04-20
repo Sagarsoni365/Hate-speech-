@@ -1,0 +1,6 @@
+{
+  "name": "Guardian Sentinel",
+  "description": "An AI-powered hate speech and offensive language detector using advanced language modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
